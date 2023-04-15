@@ -1,5 +1,4 @@
-# Crop_recommendation_System
-Crop Recommendation System using Machine Learning:
+# Crop Recommendation System using Machine Learning
 
 A major contribution to India's economy is made by Agriculture. A lot of families in India directly or indirectly depend on farming
 in general. Hence, we can say farming is an integral part of India and define who we are as a country. A larger part of the Indian
