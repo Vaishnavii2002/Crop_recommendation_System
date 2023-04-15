@@ -9,6 +9,9 @@ are involved. A wrong or misguided decision by a farmer can have a lot of impact
 India in a broader sense. A combination of machine learning algorithms, historical and scientifically collected soil parameters, and
 weather data can help predict the most appropriate crop to be sown on the farm.
 
+![image](https://user-images.githubusercontent.com/87874194/232232026-5cc26c7c-30b3-4c57-b4e4-f8cc180c0f5b.png)
+
+
 ![image](https://user-images.githubusercontent.com/87874194/232230758-fa247c0a-4fc2-47a8-885e-e50df6cadc52.png)
 
  
